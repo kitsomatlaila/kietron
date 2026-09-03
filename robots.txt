@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kietron.co.za/sitemap.xml
